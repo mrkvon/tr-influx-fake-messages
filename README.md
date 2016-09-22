@@ -40,3 +40,6 @@ it will save the data into a new database `msg_db`
 you need influxdb v1.0+ (or maybe v0.9+) to do this
 
 you can look at the data with Grafana
+
+## License
+MIT
