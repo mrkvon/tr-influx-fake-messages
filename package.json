@@ -1,0 +1,16 @@
+{
+  "name": "influx-tr-messages",
+  "version": "0.0.0",
+  "description": "creating data table for fake messages data for influx testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mrkvon",
+  "license": "MIT",
+  "dependencies": {
+    "co": "^4.6.0",
+    "denodeify": "^1.2.1",
+    "fs": "0.0.1-security"
+  }
+}
