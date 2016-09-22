@@ -11,6 +11,8 @@
   "dependencies": {
     "co": "^4.6.0",
     "denodeify": "^1.2.1",
-    "fs": "0.0.1-security"
+    "fs": "0.0.1-security",
+    "mongoose": "^4.6.1",
+    "mongoose-paginate": "^5.0.0"
   }
 }
